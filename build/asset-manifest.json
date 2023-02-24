@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Protfilo/static/css/main.2011c152.chunk.css",
+    "main.js": "/Protfilo/static/js/main.e09d02de.chunk.js",
+    "main.js.map": "/Protfilo/static/js/main.e09d02de.chunk.js.map",
+    "runtime-main.js": "/Protfilo/static/js/runtime-main.99404b7a.js",
+    "runtime-main.js.map": "/Protfilo/static/js/runtime-main.99404b7a.js.map",
+    "static/js/2.59df4405.chunk.js": "/Protfilo/static/js/2.59df4405.chunk.js",
+    "static/js/2.59df4405.chunk.js.map": "/Protfilo/static/js/2.59df4405.chunk.js.map",
+    "index.html": "/Protfilo/index.html",
+    "precache-manifest.8566b216ddc567dcdfc412c3b4452dc3.js": "/Protfilo/precache-manifest.8566b216ddc567dcdfc412c3b4452dc3.js",
+    "service-worker.js": "/Protfilo/service-worker.js",
+    "static/css/main.2011c152.chunk.css.map": "/Protfilo/static/css/main.2011c152.chunk.css.map",
+    "static/js/2.59df4405.chunk.js.LICENSE.txt": "/Protfilo/static/js/2.59df4405.chunk.js.LICENSE.txt",
+    "static/media/Taha_Shabaan_Resume.pdf": "/Protfilo/static/media/Taha_Shabaan_Resume.7c69ba52.pdf",
+    "static/media/cruds.jpg": "/Protfilo/static/media/cruds.58b8bb6f.jpg",
+    "static/media/ecommerce.jpg": "/Protfilo/static/media/ecommerce.1a40f242.jpg",
+    "static/media/food_order.jpg": "/Protfilo/static/media/food_order.1eb9ba70.jpg",
+    "static/media/form_empoly.jpg": "/Protfilo/static/media/form_empoly.bbcd839f.jpg",
+    "static/media/movie_app.jpg": "/Protfilo/static/media/movie_app.cc825598.jpg",
+    "static/media/shoping_cart.jpg": "/Protfilo/static/media/shoping_cart.e8d64c08.jpg",
+    "static/media/taha.jpeg": "/Protfilo/static/media/taha.b9692fec.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99404b7a.js",
+    "static/js/2.59df4405.chunk.js",
+    "static/css/main.2011c152.chunk.css",
+    "static/js/main.e09d02de.chunk.js"
+  ]
+}
