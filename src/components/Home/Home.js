@@ -48,7 +48,6 @@ import classes from './Home.module.css'
       </section>
 
       <section className={`${classes.right}`}>
-        {/* https://news.illinois.edu/files/6367/237975/72998.jpg */}
          <img  src={image}  alt="home__image"/>
       </section>
         

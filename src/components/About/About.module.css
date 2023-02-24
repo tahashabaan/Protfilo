@@ -6,6 +6,7 @@
 
 .left img {
   margin: auto;
+  object-fit: cover;
 }
 
 .right p {
@@ -25,8 +26,24 @@
   transform: translateX(-50%);
 }
 
-.button a {
-  width: 20rem;
+.button a { width: 20rem; }
+
+@media screen and (max-width: 1050px) {
+
+  .about{ margin-top: 24rem; }
+
+  .right p { 
+    width: 90%; 
+    margin: auto; 
+    line-height: 1.4;
+    font-size: 26px;
+  }
+
+  .button {
+    margin-left: 5% ;
+    transform: translateX(0);
+  }
+  
 }
 
 @media screen and (max-width: 550px) {
@@ -37,12 +54,14 @@
     width: 100%;
     line-height: 1.8;
     font-weight: 200;
-    font-size: 28px;
+    font-size: 20px;
+    line-height: 1.3;
   }
 
   .button {
-    margin-left: 1rem ;
+    margin-left: 0.5rem ;
     transform: none;
+    padding: 0.3rem;
   }
 
   

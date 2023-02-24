@@ -21,7 +21,7 @@ import image from '../../assests/taha.jpeg';
        </section>
 
       <section className={`${classes.right} pdTb`}>
-        <h3></h3>
+        
         <p>
           I'm frontend developer, I can create web pages with UI/UX <br/> I have one year of experience build it .
         </p>

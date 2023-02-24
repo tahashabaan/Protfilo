@@ -9,8 +9,8 @@ import Concat from './components/Concat/Concat';
 import Error from './components/Error/Error';
 import Skills from './components/Skills/Skills';
 import Footer from './components/footer/footer'
-import Testmionals from './components/Testmionals/Testmionals';
-import classes from './App.module.css'
+// import Testmionals from './components/Testmionals/Testmionals';
+// import classes from './App.module.css'
 
 
 const App = () => {

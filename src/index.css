@@ -142,10 +142,11 @@ img {
 }
 
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 1050px) {
 
   .section_title {
     font-size: 36px;
+    margin-top: 1rem;
   }
 
   .section_subtitle {
@@ -157,3 +158,9 @@ img {
     row-gap: 1rem;
   }
 } 
+
+@media screen and(max-width:540px){
+  .section_title {
+    font-size: 26px;
+  }
+}
