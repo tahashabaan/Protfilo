@@ -1,14 +1,14 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } 
 from 'react-router-dom'
-import Header from './components/Header/Header';
-import Home from './components/Home/Home';
-import About from './components/About/About';
-import Works from './components/Works/Works'
-import Concat from './components/Concat/Concat';
-import Error from './components/Error/Error';
-import Skills from './components/Skills/Skills';
-import Footer from './components/footer/footer'
+import Header from './component/Header/Header';
+import Home from './component/Home/Home';
+import About from './component/About/About';
+import Works from './component/Works/Works'
+import Concat from './component/Concat/Concat';
+import Error from './component/Error/Error';
+import Skills from './component/Skills/Skills';
+import Footer from './component/footer/footer'
 // import Testmionals from './components/Testmionals/Testmionals';
 // import classes from './App.module.css'
 
